@@ -34,215 +34,145 @@
 ## Contenido del curso
 ### Sección 1: Introducción
 #### 1. Introducción al curso
-2 min
-Reproducir
 #### 2. ¿Cómo funcionará el curso?
-4 min
-Reproducir
 #### 3. ¿Cómo hacer preguntas?
-5 min
-Reproducir
 #### 4. Instalaciones necesarias y recomendadas
-9 min
-Reproducir.
 
 
 ### Sección 2: Introducción a React y conceptos generales
-5. Introducción a la sección
-1 min
-Iniciar
-6. Temas puntuales de la sección
-1 min
-Reproducir
-7. ¿Qué es React?
+#### 5. Introducción a la sección
+#### 6. Temas puntuales de la sección
+#### 7. ¿Qué es React?
+#### 8. Primeros pasos en React
+#### 9. Introducción a Babel
+
+
+### Sección 3: Introducción a JavaScript moderno
+#### 10. Introducción a la sección
+#### 11. Temas puntuales de la sección
+#### 12. Inicio de proyecto - Bases de JavaScript
+#### 13. Variables y constantes
+#### 14. Template String
+#### 15. Objetos lilterales
+#### 16. Arreglos
+#### 17. Funciones
+#### 18. Desestructuación de Objetos
+#### 19. Desestructuación de Arreglos
+#### 20. Import, export y funciones comunes de arreglos
+#### 21. Múltiples exportaciones y exportaciones por defecto
+#### 22. Promesas
+#### 23. Fetch API
+#### 24. Async - Await
+#### 25. Operador condicional ternario
+#### 26. Nota sobre JavaScript
+#### 27. Código fuente de la sección
++ **Código fuente**:
+    + https://github.com/Klerith/react-intro-javascript
+    + recursos\seccion03\react-intro-javascript-master.zip
+
+
+### Sección 4: Primeros pasos en React
+#### 28. Introducción a la sección
+#### 29. Temas puntuales de la sección
+#### 30. ¿Qué son los componentes?
+#### 31. Primera aplicación de React
+#### 32. Estructura de directorios - CRA
+#### 33. Estructura de directorios - Vite
+#### 34. Hola Mundo en React
+#### 35. Nuestro primer Componente
+#### 36. Tarea - Crear un nuevo componente
+#### 37. Retornar elementos en el Componente - Fragment
+#### 38. Impresión de variables en el HTML
+#### 39. Colocar estilos de CSS
+#### 40. Comunicación entre componentes - Props
+#### 41. PropTypes
+#### 42. DefaultProps
+#### 43. Tarea - Componente CounterApp+
++ https://gist.github.com/Klerith/e1a731cc595c00a9794a709062eae757
++ recursos\seccion04\tarea.md.zip
+
+#### 44. Evento click (Eventos en general)
++ https://es.reactjs.org/docs/events.html
+
+#### 45. useState - Hook
++ https://es.reactjs.org/docs/hooks-intro.html
++ https://github.com/Klerith/react-intro-javascript/blob/master/src/bases/07-deses-arr.js
+
+#### 46. handleSubtract y handleReset
+#### 47. Código fuente de la sección
++ **Código fuente de la sección**: https://github.com/Klerith/react-vite-counter-app/tree/fin-seccion-4
+
+
+### Sección 5: Pruebas unitarias y de integración - Probando las secciones anteriores
+#### 48. Introducción a la sección
 4 min
+Iniciar
+#### 49. Temas puntuales de la sección
+1 min
 Reproducir
-8. Primeros pasos en React
+#### 50. Introducción a las pruebas unitarias y de integración
 8 min
 Reproducir
-9. Introducción a Babel
-6 min
-Reproducir
-10. Introducción a la sección
-2 min
-Iniciar
-11. Temas puntuales de la sección
-1 min
-Reproducir
-12. Inicio de proyecto - Bases de JavaScript
-6 min
-Reproducir
-13. Variables y constantes
-7 min
-Reproducir
-14. Template String
-7 min
-Reproducir
-15. Objetos lilterales
-9 min
-Reproducir
-16. Arreglos
-9 min
-Reproducir
-17. Funciones
-11 min
-Reproducir
-18. Desestructuación de Objetos
-12 min
-Reproducir
-19. Desestructuación de Arreglos
-9 min
-Reproducir
-20. Import, export y funciones comunes de arreglos
-14 min
-Reproducir
-21. Múltiples exportaciones y exportaciones por defecto
-7 min
-Reproducir
-22. Promesas
-16 min
-Reproducir
-23. Fetch API
-11 min
-Reproducir
-24. Async - Await
-10 min
-Reproducir
-25. Operador condicional ternario
-6 min
-Iniciar
-26. Nota sobre JavaScript
-1 min
-Iniciar
-27. Código fuente de la sección
-1 min
-Reproducir
-28. Introducción a la sección
-2 min
-Iniciar
-29. Temas puntuales de la sección
-1 min
-Reproducir
-30. ¿Qué son los componentes?
+#### 51. Inicio de la sección - Pruebas sobre lo aprendido anteriormente
 4 min
 Reproducir
-31. Primera aplicación de React
-7 min
-Reproducir
-32. Estructura de directorios - CRA
-13 min
-Reproducir
-33. Estructura de directorios - Vite
+#### 52. Mi primera prueba y configuraciones iniciales
 11 min
 Reproducir
-34. Hola Mundo en React
-9 min
+#### 53. Jest - Expect - toBe
+8 min
 Reproducir
-35. Nuestro primer Componente
-9 min
+#### 54. Pruebas en el archivo 02-template-string.js
+10 min
 Reproducir
-36. Tarea - Crear un nuevo componente
+#### 55. toEqual
+8 min
+Reproducir
+#### 56. Pruebas en el archivo 07-deses-arr.js
+6 min
+Reproducir
+#### 57. Pruebas en 08-imp-exp.js - Arreglos
+11 min
+Reproducir
+#### 58. Pruebas con tareas asíncronas
+12 min
+Reproducir
+#### 59. Pruebas con async-await
+12 min
+Reproducir
+#### 60. Evaluar el Catch en el async-await
 3 min
 Reproducir
-37. Retornar elementos en el Componente - Fragment
-5 min
-Reproducir
-38. Impresión de variables en el HTML
-12 min
-Reproducir
-39. Colocar estilos de CSS
-4 min
-Reproducir
-40. Comunicación entre componentes - Props
-8 min
-Reproducir
-41. PropTypes
-8 min
-Reproducir
-42. DefaultProps
-6 min
-Reproducir
-43. Tarea - Componente CounterApp
-7 min
-Reproducir
-44. Evento click (Eventos en general)
-11 min
-Reproducir
-45. useState - Hook
-11 min
-Reproducir
-46. handleSubtract y handleReset
-8 min
-Iniciar
-47. Código fuente de la sección
-1 min
-Reproducir
-48. Introducción a la sección
-4 min
-Iniciar
-49. Temas puntuales de la sección
-1 min
-Reproducir
-50. Introducción a las pruebas unitarias y de integración
-8 min
-Reproducir
-51. Inicio de la sección - Pruebas sobre lo aprendido anteriormente
-4 min
-Reproducir
-52. Mi primera prueba y configuraciones iniciales
-11 min
-Reproducir
-53. Jest - Expect - toBe
-8 min
-Reproducir
-54. Pruebas en el archivo 02-template-string.js
+#### 61. Pruebas sobre componentes de React
 10 min
 Reproducir
-55. toEqual
-8 min
-Reproducir
-56. Pruebas en el archivo 07-deses-arr.js
-6 min
-Reproducir
-57. Pruebas en 08-imp-exp.js - Arreglos
+#### 62. Pruebas en FirstApp - Componentes de React
 11 min
 Reproducir
-58. Pruebas con tareas asíncronas
+#### 63. Probar FirstApp
 12 min
 Reproducir
-59. Pruebas con async-await
-12 min
-Reproducir
-60. Evaluar el Catch en el async-await
-3 min
-Reproducir
-61. Pruebas sobre componentes de React
-10 min
-Reproducir
-62. Pruebas en FirstApp - Componentes de React
-11 min
-Reproducir
-63. Probar FirstApp
-12 min
-Reproducir
-64. getByTestId y otras props
+#### 64. getByTestId y otras props
 8 min
 Reproducir
-65. Screen - Testing Library
+#### 65. Screen - Testing Library
 10 min
 Reproducir
-66. Pruebas básicas del CounterApp
+#### 66. Pruebas básicas del CounterApp
 8 min
 Reproducir
-67. Simular eventos - Click
+#### 67. Simular eventos - Click
 14 min
 Iniciar
-68. Código fuente de la sección
+#### 68. Código fuente de la sección
 1 min
 Reproducir
-69. Introducción a la sección
+#### 69. Introducción a la sección
 2 min
 Iniciar
+
+
+### Sección 6: GifExpertApp - Aplicación
 70. Temas puntuales de la sección
 1 min
 Reproducir

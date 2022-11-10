@@ -20,183 +20,116 @@
 
 ## Contenido del curso
 ### Sección 1: Introducción
-1. Introducción
-5 min
-Reproducir
-2. ¿Qué es React?
-5 min
-Reproducir
-3. SPA
+#### 1. Introducción
+#### 2. ¿Qué es React?
+#### 3. SPA
+#### 4. JavaScript o TypeScript
+#### 5. ¿JSX? - EXPLICACIÓN
+#### 6. Instalaciones Necesarias
+#### 7. Instalando Yarn 3
+#### 8. Extensiones de VS Code Recomendadas
+#### 9. Repositorio del curso
++ **Código fuente**: https://gist.github.com/YirsisHertz/c77670fffab23cb1c9e3ba1c0caa18ed
+
+
+### Sección 2: Nivelación: JavaScript para React
+#### 10. Introducción a la sección
+#### 11. LiveServer: Loopback y Localhost
+#### 12. Creación Rápida de Archivos en VS Code
+#### 13. Var, Let y Const
+#### 14. FatArrow Functions
+#### 15. Operador Ternario
+#### 16. JSON: JavaScript Object Notation
+#### 17. Object Destructuring
+#### 18. Función Map
+#### 19. Array Destructuring
+#### 20. Spread Operator
+#### 21. Template String
+#### 22. Intervalos
+#### 23. TimeOut
+#### 24. Promesas
+#### 25. Fetch API con Promesas
+#### 26. Axios con Promesas
+#### 27. Async y Await
+#### 28. Fetch con Async y Await
+#### 29. Axios con Async y Await
+#### 30. Código de la Sección
++ **Código fuente**: 99react-0\recursos\seccion02\00-nivelacion.zip
+
+
+### Sección 3: React - CDN
+#### 31. Creando el HTML Base
+#### 32. React y ReactDOM - CDN
+#### 33. Creando Elementos con React
+#### 34. Babel y JSX
+#### 35. Class Components - (Legacy)
+#### 36. Functional Components
+
+
+### Sección 4: Fundamentos de React - Vite.js
+#### 37. Creando Aplicación de React con Vite.js
++ https://vitejs.dev
+
+#### 38. Archivos de un Proyecto de React
+#### 39. Interpolación de datos
+#### 40. Estilos de la Aplicación
+#### 41. Eventos en React
+#### 42. Estados en React
+#### 43. React Fragment
+
+
+### Sección 5: Introducción a PWA
+#### 44. PWA - ¿Qué es?
 9 min
 Reproducir
-4. JavaScript o TypeScript
-2 min
-Reproducir
-5. ¿JSX? - EXPLICACIÓN
+#### 45. Demostración de PWA
 4 min
 Reproducir
-6. Instalaciones Necesarias
-9 min
-Reproducir
-7. Instalando Yarn 3
-6 min
-Reproducir
-8. Extensiones de VS Code Recomendadas
-15 min
-Iniciar
-9. Repositorio del curso
-1 min
-Reproducir
-10. Introducción a la sección
-1 min
-Reproducir
-11. LiveServer: Loopback y Localhost
+#### 46. Modelo Cliente-Servidor
 7 min
 Reproducir
-12. Creación Rápida de Archivos en VS Code
+#### 47. HTTP y HTTPS
 3 min
 Reproducir
-13. Var, Let y Const
+#### 48. ServiceWorker
+4 min
+Reproducir
+#### 49. Sección de Aplication y Network
+7 min
+Reproducir
+#### 50. Registrar SW
+7 min
+Reproducir
+#### 51. Install - SW
 13 min
 Reproducir
-14. FatArrow Functions
-9 min
-Reproducir
-15. Operador Ternario
-8 min
-Reproducir
-16. JSON: JavaScript Object Notation
-7 min
-Reproducir
-17. Object Destructuring
-4 min
-Reproducir
-18. Función Map
-8 min
-Reproducir
-19. Array Destructuring
-4 min
-Reproducir
-20. Spread Operator
-4 min
-Reproducir
-21. Template String
-9 min
-Reproducir
-22. Intervalos
-6 min
-Reproducir
-23. TimeOut
-6 min
-Reproducir
-24. Promesas
+#### 52. Active - SW
 11 min
 Reproducir
-25. Fetch API con Promesas
-11 min
-Reproducir
-26. Axios con Promesas
-7 min
-Reproducir
-27. Async y Await
-8 min
-Reproducir
-28. Fetch con Async y Await
-6 min
-Reproducir
-29. Axios con Async y Await
-4 min
-Iniciar
-30. Código de la Sección
-1 min
-Reproducir
-31. Creando el HTML Base
-6 min
-Reproducir
-32. React y ReactDOM - CDN
-5 min
-Reproducir
-33. Creando Elementos con React
-10 min
-Reproducir
-34. Babel y JSX
-9 min
-Reproducir
-35. Class Components - (Legacy)
-8 min
-Reproducir
-36. Functional Components
-5 min
-Reproducir
-37. Creando Aplicación de React con Vite.js
-13 min
-Reproducir
-38. Archivos de un Proyecto de React
-9 min
-Reproducir
-39. Interpolación de datos
-6 min
-Reproducir
-40. Estilos de la Aplicación
-6 min
-Reproducir
-41. Eventos en React
-6 min
-Reproducir
-42. Estados en React
-8 min
-Reproducir
-43. React Fragment
-3 min
-Reproducir
-44. PWA - ¿Qué es?
-9 min
-Reproducir
-45. Demostración de PWA
-4 min
-Reproducir
-46. Modelo Cliente-Servidor
-7 min
-Reproducir
-47. HTTP y HTTPS
-3 min
-Reproducir
-48. ServiceWorker
-4 min
-Reproducir
-49. Sección de Aplication y Network
-7 min
-Reproducir
-50. Registrar SW
-7 min
-Reproducir
-51. Install - SW
-13 min
-Reproducir
-52. Active - SW
-11 min
-Reproducir
-53. Fetch - SW
+#### 53. Fetch - SW
 12 min
 Reproducir
-54. Metadata para PWA
+#### 54. Metadata para PWA
 11 min
 Reproducir
-55. Icons
+#### 55. Icons
 7 min
 Reproducir
-56. Archivo Manifest
+#### 56. Archivo Manifest
 16 min
 Reproducir
-57. Generando Iconos Automáticamente
+#### 57. Generando Iconos Automáticamente
 16 min
 Reproducir
-58. Arreglando el SW
+#### 58. Arreglando el SW
 2 min
 Iniciar
-59. Código de la sección
+#### 59. Código de la sección
 1 min
 Iniciar
+
+
+### Sección 6: WebComponents Avanzados
 60. RECURSO NECESARIO
 1 min
 Reproducir
